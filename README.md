@@ -3,7 +3,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Maintained-Yes-2ea44f?style=for-the-badge" alt="Maintained - Yes"></a>
-
+<a href="#"><img src="https://img.shields.io/badge/Quick_Attention-6fa8dc?style=for-the-badge" alt="Quick Attention"></a>
+<a href="#"><img src="https://img.shields.io/badge/Multi_Loss_Function-74867C?style=for-the-badge" alt="Multi Loss Function"></a>
+<a href="#"><img src="https://img.shields.io/badge/Encoder--Decoder_Network-A2AF48?style=for-the-badge" alt="Encoder-Decoder Network"></a>
 
 Histological Image Segmentation<br>This repo contains the code to Test and Train the HistoSeg <br>
 
