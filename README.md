@@ -1,4 +1,4 @@
-# <a href="#"><img src="https://img.shields.io/badge/HistoSeg-8e7cc3?style=for-the-badge" alt="HistoSeg"></a> : Quick attention with multi-loss function for multi-structure segmentation in digital histology images
+# HistoSeg : Quick attention with multi-loss function for multi-structure segmentation in digital histology images
 
 <a href="#"><img src="https://img.shields.io/badge/Maintained-Yes-2ea44f?style=for-the-badge" alt="Maintained - Yes"></a>
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
