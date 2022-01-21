@@ -1,3 +1,4 @@
+<a href="#"><img src="https://img.shields.io/badge/Histological_Image_Segmentation-8e7cc3?style=for-the-badge" alt="Histological Image Segmentation"></a>
 # HistoSeg : Quick attention with multi-loss function for multi-structure segmentation in digital histology images
 
 <a href="#"><img src="https://img.shields.io/badge/Maintained-Yes-2ea44f?style=for-the-badge" alt="Maintained - Yes"></a>
@@ -11,7 +12,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /></a>
 
 Histological Image Segmentation<br>This repo contains the code to Test and Train the HistoSeg <br>
-
 
 HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Modules and Multi Loss function to generate segmentation masks from histopathological images with greater accuracy.
 
@@ -54,6 +54,18 @@ For example to test HistoSeg on MoNuSeg Dataset, the shapes of dataset after cre
 X_test 14x1000x1000x3 
 y_test 14x1000x1000x1
 ```
+
+## Requirements
+```pip install scikit-image
+pip install matplotlib
+pip install seaborn
+pip install tqdm
+pip install scikit-learn
+conda install tensorflow==2.7
+conda install keras==2.2.4
+```
+
+
 ## Training
 To train HistoSeg use the following command
 
