@@ -10,7 +10,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /></a>
 
-<a href="#"><img src="https://img.shields.io/badge/Histological_Image_Segmentation-8e7cc3?style=for-the-badge" alt="Histological Image Segmentation"></a><br>This repo contains the code to Test and Train the HistoSeg <br>
+Histological Image Segmentation<br>This repo contains the code to Test and Train the HistoSeg <br>
 
 HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Modules and Multi Loss function to generate segmentation masks from histopathological images with greater accuracy.
 
@@ -23,7 +23,6 @@ HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Mod
 
 ### MoNuSeg - Multi-organ nuclei segmentation from H&E stained histopathological images
 link: https://monuseg.grand-challenge.org/
-
 ### GlaS -  Gland segmentation in histology images
 link: https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/
 
