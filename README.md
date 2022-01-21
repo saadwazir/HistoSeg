@@ -17,7 +17,7 @@ HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Mod
 
 ## HistoSeg Qualitative Results
 <p align="left">
-  <img src="HistoSeg_Results.png" title="HistoSeg Qualitative Results">
+  <img align="left" src="HistoSeg_Results.png" title="HistoSeg Qualitative Results">
 </p>
 
 ## Datasets used for trainig HistoSeg
@@ -28,6 +28,7 @@ link: https://monuseg.grand-challenge.org/
 ### GlaS -  Gland segmentation in histology images
 link: https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/
 
+<br><br><br>
 ## Trained Weights are available in the repo to test the HistoSeg
 For MoNuSeg Dataset link: https://github.com/saadwazir/HistoSeg/blob/main/HistoSeg_MoNuSeg_.h5
 
@@ -98,7 +99,9 @@ python HistoSeg_Test.py --images 'X_test_MoNuSeg_14x1000x1000.npy' --masks 'y_te
 ## HistoSeg Learning Curve
 
 <p align="left">
-  <img src="HistoSeg_Loss.jpg" width="1000" title="HistoSeg Learning Curve">
+  <img src="HistoSeg_Loss.jpg" width="700" title="HistoSeg Learning Curve">
 </p>
 
-`Author` [Saad Wazir](https://github.com/saadwazir) (saadwazir.pk@gmail.com)
+## 
+<a href="#"><img src="https://img.shields.io/badge/Author_%2F_Corresponding_Person%3A-8e7cc3" alt="Author / Corresponding Person:"></a> <br>
+[Saad Wazir](https://github.com/saadwazir) (saadwazir.pk@gmail.com)
