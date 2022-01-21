@@ -16,17 +16,17 @@ HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Mod
 
 ## HistoSeg Qualitative Results
 <p align="left">
-  <img align="left" src="HistoSeg_Results.png" title="HistoSeg Qualitative Results">
+  <img src="HistoSeg_Results.png" title="HistoSeg Qualitative Results">
 </p>
 
 ## Datasets used for trainig HistoSeg
 
 ### MoNuSeg - Multi-organ nuclei segmentation from H&E stained histopathological images
 link: https://monuseg.grand-challenge.org/
+
 ### GlaS -  Gland segmentation in histology images
 link: https://warwick.ac.uk/fac/cross_fac/tia/data/glascontest/
 
-<br><br><br>
 ## Trained Weights are available in the repo to test the HistoSeg
 For MoNuSeg Dataset link: https://github.com/saadwazir/HistoSeg/blob/main/HistoSeg_MoNuSeg_.h5
 
