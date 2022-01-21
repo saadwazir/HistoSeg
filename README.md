@@ -1,5 +1,6 @@
 # HistoSeg : Quick attention with multi-loss function for multi-structure segmentation in digital histology images
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+<img src="{https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white}" />
+
 
 Histological Image Segmentation<br>This repo contains the code to Test and Train the HistoSeg
 
