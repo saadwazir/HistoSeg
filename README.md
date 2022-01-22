@@ -56,7 +56,7 @@ pip install seaborn
 pip install tqdm
 pip install scikit-learn
 conda install tensorflow==2.7
-conda install keras==2.2.4
+pip install keras==2.2.4
 ```
 
 
