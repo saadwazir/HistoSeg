@@ -74,4 +74,3 @@ python HistoSeg_Test.py --images 'path' --masks 'path' --weights 'path' --width 
 For example to test HistoSeg on MoNuSeg Dataset with trained weights, use the following command
 python HistoSeg_Test.py --images 'X_test_MoNuSeg_14x1000x1000.npy' --masks 'y_test_MoNuSeg_14x1000x1000.npy' --weights 'HistoSeg_MoNuSeg_.h5' --width 1000 --height 1000
 ```
-
