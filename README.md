@@ -1,4 +1,4 @@
-
+<a href="https://github.com/saadwazir/HistoSeg"><img src="https://img.shields.io/badge/HistoSeg-Quick_attention_with_multi--loss_function_for_multi--structure_segmentation_in_digital_histology_images-FFC300?style=for-the-badge" alt="HistoSeg - Quick attention with multi-loss function for multi-structure segmentation in digital histology images"></a>
 # HistoSeg : Quick attention with multi-loss function for multi-structure segmentation in digital histology images
 
 <a href="#"><img src="https://img.shields.io/badge/Maintained-Yes-2ea44f?style=for-the-badge" alt="Maintained - Yes"></a>
