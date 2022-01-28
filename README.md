@@ -1,6 +1,5 @@
 <a href="https://github.com/saadwazir/HistoSeg"><img src="https://img.shields.io/badge/HistoSeg-Quick_attention_with_multi--loss_function_for_multi--structure_segmentation_in_digital_histology_images-FFC300?style=for-the-badge" alt="HistoSeg - Quick attention with multi-loss function for multi-structure segmentation in digital histology images"></a>
-# HistoSeg : Quick attention with multi-loss function for multi-structure segmentation in digital histology images
-
+#
 <a href="#"><img src="https://img.shields.io/badge/Maintained-Yes-2ea44f?style=for-the-badge" alt="Maintained - Yes"></a>
 <a href="#"><img src="https://img.shields.io/badge/Quick_Attention-6fa8dc?style=for-the-badge" alt="Quick Attention"></a>
 <a href="#"><img src="https://img.shields.io/badge/Multi_Loss_Function-74867C?style=for-the-badge" alt="Multi Loss Function"></a>
@@ -10,6 +9,8 @@
 <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /></a>
+
+# HistoSeg : Quick attention with multi-loss function for multi-structure segmentation in digital histology images
 
 Histological Image Segmentation<br>This repo contains the code to Test and Train the HistoSeg <br>
 
