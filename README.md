@@ -20,7 +20,7 @@ HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Mod
 
 ## HistoSeg Qualitative Results
 
-<img align="left" src="HistoSeg_Results.png" title="HistoSeg Qualitative Results">
+<img align="center" src="HistoSeg_Results.png" title="HistoSeg Qualitative Results">
 
 ## HistoSeg Qualitative Results
 
