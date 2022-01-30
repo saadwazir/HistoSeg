@@ -22,6 +22,39 @@ HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Mod
 
 <img src="HistoSeg_Results.png" title="HistoSeg Qualitative Results">
 
+## HistoSeg Learning Curve
+
+<p align="left">
+  <img src="HistoSeg_Loss.jpg" width="700" title="HistoSeg Learning Curve">
+</p>
+
+## HistoSeg Quantitative Results
+<table>
+<thead>
+  <tr>
+    <th colspan="3">MoNuSeg</th>
+    <th colspan="3">GlaS</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>F1</td>
+    <td>IoU</td>
+    <td>Dice</td>
+    <td>F1</td>
+    <td>IoU</td>
+    <td>Dice</td>
+  </tr>
+  <tr>
+    <td>75.08</td>
+    <td>71.06</td>
+    <td>95.20</td>
+    <td>98.07</td>
+    <td>76.73</td>
+    <td>99.09</td>
+  </tr>
+</tbody>
+</table>
 
 ## Datasets used for trainig HistoSeg
 
@@ -82,41 +115,6 @@ python HistoSeg_Test.py --images 'path' --masks 'path' --weights 'path' --width 
 For example to test HistoSeg on MoNuSeg Dataset with trained weights, use the following command
 python HistoSeg_Test.py --images 'X_test_MoNuSeg_14x1000x1000.npy' --masks 'y_test_MoNuSeg_14x1000x1000.npy' --weights 'HistoSeg_MoNuSeg_.h5' --width 1000 --height 1000
 ```
-
-## HistoSeg Quantitative Results
-<table>
-<thead>
-  <tr>
-    <th colspan="3">MoNuSeg</th>
-    <th colspan="3">GlaS</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>F1</td>
-    <td>IoU</td>
-    <td>Dice</td>
-    <td>F1</td>
-    <td>IoU</td>
-    <td>Dice</td>
-  </tr>
-  <tr>
-    <td>75.08</td>
-    <td>71.06</td>
-    <td>95.20</td>
-    <td>98.07</td>
-    <td>76.73</td>
-    <td>99.09</td>
-  </tr>
-</tbody>
-</table>
-
-## HistoSeg Learning Curve
-
-<p align="left">
-  <img src="HistoSeg_Loss.jpg" width="700" title="HistoSeg Learning Curve">
-</p>
-
 ##
 <a href="https://github.com/saadwazir/HistoSeg"><img src="https://img.shields.io/badge/HistoSeg-Quick_attention_with_multi--loss_function_for_multi--structure_segmentation_in_digital_histology_images-FFC300" alt="HistoSeg - Quick attention with multi-loss function for multi-structure segmentation in digital histology images"></a>
 
