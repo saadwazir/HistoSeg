@@ -18,9 +18,11 @@ Histological Image Segmentation<br>This repo contains the code to Test and Train
 
 HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Modules and Multi Loss function to generate segmentation masks from histopathological images with greater accuracy.
 
-## HistoSeg Results
+## HistoSeg Qualitative Results
 
 <img align="left" src="HistoSeg_Results.png" title="HistoSeg Qualitative Results">
+
+## HistoSeg Qualitative Results
 
 <table>
 <thead>
