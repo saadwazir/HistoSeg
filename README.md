@@ -1,4 +1,5 @@
 <a href="https://github.com/saadwazir/HistoSeg"><img src="https://img.shields.io/badge/HistoSeg-Quick_attention_with_multi--loss_function_for_multi--structure_segmentation_in_digital_histology_images-FFC300" alt="HistoSeg - Quick attention with multi-loss function for multi-structure segmentation in digital histology images"></a>
+
 <a href="#"><img src="https://img.shields.io/badge/Author_%2F_Corresponding_Person%3A-8e7cc3" alt="Author / Corresponding Person:"></a> <br>
 [--------------------](-------) (-----)
 
