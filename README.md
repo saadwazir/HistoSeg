@@ -25,7 +25,9 @@ Please Cite it as following
 
 S. Wazir and M. M. Fraz, "HistoSeg: Quick attention with multi-loss function for multi-structure segmentation in digital histology images," 2022 12th International Conference on Pattern Recognition Systems (ICPRS), 2022, pp. 1-7, doi: 10.1109/ICPRS54038.2022.9854067.
 
-##Histological Image Segmentation<br>This repo contains the code to Test and Train the HistoSeg <br>
+## Histological Image Segmentation
+
+<br>This repo contains the code to Test and Train the HistoSeg <br>
 
 HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Modules and Multi Loss function to generate segmentation masks from histopathological images with greater accuracy.
 
