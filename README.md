@@ -7,7 +7,9 @@ DOI: 10.1109/ICPRS54038.2022.9854067
 Copyrights has been given to IEEE.
 
 Please Cite it as following
+```
 S. Wazir and M. M. Fraz, "HistoSeg: Quick attention with multi-loss function for multi-structure segmentation in digital histology images," 2022 12th International Conference on Pattern Recognition Systems (ICPRS), 2022, pp. 1-7, doi: 10.1109/ICPRS54038.2022.9854067.
+```
 
 ##
 
