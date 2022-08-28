@@ -1,18 +1,3 @@
-##
-Paper was presented at 12th International Conference on Pattern Recognition Systems (ICPRS), 2022
-École Nationale Supérieure des Mines de Saint-Étienne, France
-
-DOI: 10.1109/ICPRS54038.2022.9854067
-
-Copyrights has been given to IEEE.
-
-Please Cite it as following
-```
-S. Wazir and M. M. Fraz, "HistoSeg: Quick attention with multi-loss function for multi-structure segmentation in digital histology images," 2022 12th International Conference on Pattern Recognition Systems (ICPRS), 2022, pp. 1-7, doi: 10.1109/ICPRS54038.2022.9854067.
-```
-
-##
-
 <a href="#"><img src="https://img.shields.io/badge/Author_%2F_Corresponding_Person%3A-8e7cc3" alt="Author / Corresponding Person:"></a> <br>
 Saad Wazir [saadwazir.pk@gmail.com]
 
@@ -28,6 +13,16 @@ Saad Wazir [saadwazir.pk@gmail.com]
 <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /></a>
 
 # HistoSeg : Quick attention with multi-loss function for multi-structure segmentation in digital histology images
+
+Paper was presented at 12th International Conference on Pattern Recognition Systems (ICPRS), 2022
+École Nationale Supérieure des Mines de Saint-Étienne, France
+
+DOI: 10.1109/ICPRS54038.2022.9854067
+
+Copyrights has been given to IEEE.
+
+Please Cite it as following
+S. Wazir and M. M. Fraz, "HistoSeg: Quick attention with multi-loss function for multi-structure segmentation in digital histology images," 2022 12th International Conference on Pattern Recognition Systems (ICPRS), 2022, pp. 1-7, doi: 10.1109/ICPRS54038.2022.9854067.
 
 Histological Image Segmentation<br>This repo contains the code to Test and Train the HistoSeg <br>
 
