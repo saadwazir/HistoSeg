@@ -118,6 +118,7 @@ pip install matplotlib
 pip install seaborn
 pip install tqdm
 pip install scikit-learn
+pip install scikit-image
 conda install tensorflow==2.7
 pip install keras==2.2.4
 ```
