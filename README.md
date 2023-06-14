@@ -78,7 +78,7 @@ HistoSeg is an Encoder-Decoder DCNN which utilizes the novel Quick Attention Mod
 
 
 
-## Datasets used for trainig HistoSeg
+## Datasets used for training HistoSeg
 
 ### MoNuSeg - Multi-organ nuclei segmentation from H&E stained histopathological images
 link: https://monuseg.grand-challenge.org/
