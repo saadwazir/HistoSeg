@@ -1,4 +1,4 @@
-<a href="#"><img src="https://img.shields.io/badge/Author_%2F_Corresponding_Person%3A-8e7cc3" alt="Author / Corresponding Person:"></a> [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/histoseg-quick-attention-with-multi-loss/medical-image-segmentation-on-glas)](https://paperswithcode.com/sota/medical-image-segmentation-on-glas?p=histoseg-quick-attention-with-multi-loss) <br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/histoseg-quick-attention-with-multi-loss/medical-image-segmentation-on-glas)](https://paperswithcode.com/sota/medical-image-segmentation-on-glas?p=histoseg-quick-attention-with-multi-loss) <br>
 
 
 
