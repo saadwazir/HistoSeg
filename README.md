@@ -23,14 +23,16 @@ Copyrights has been given to IEEE. IEEE Xplore link is <a href="https://ieeexplo
 
 Please Cite it as following
 
-`@inproceedings{wazir2022histoseg,
+```
+@inproceedings{wazir2022histoseg,
   title={HistoSeg: Quick attention with multi-loss function for multi-structure segmentation in digital histology images},
   author={Wazir, Saad and Fraz, Muhammad Moazam},
   booktitle={2022 12th International Conference on Pattern Recognition Systems (ICPRS)},
   pages={1--7},
   year={2022},
   organization={IEEE}
-}`
+}
+```
 
 ## Histological Image Segmentation
 This repo contains the code to Test and Train the HistoSeg <br>
