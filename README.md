@@ -11,7 +11,7 @@
 
 # HistoSeg : Quick attention with multi-loss function for multi-structure segmentation in digital histology images
 
-Paper was presented at 12th International Conference on Pattern Recognition Systems (ICPRS), 2022
+The final version is published in the Proceedings of the 12th International Conference on Pattern Recognition Systems (ICPRS), 2022
 École Nationale Supérieure des Mines de Saint-Étienne, France
 
 <a href="https://www.researchgate.net/publication/362817207_HistoSeg_Quick_attention_with_multi-loss_function_for_multi-structure_segmentation_in_digital_histology_images">Download Paper</a>
